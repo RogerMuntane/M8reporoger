@@ -1,0 +1,17 @@
+commit a8b22eb53ac0438b1a7b11277c802166c0f36f4a
+Author: RogerMuntane <rogermuntane123@gmail.com>
+Date:   Fri Oct 17 17:41:18 2025 +0200
+
+    segona versio
+
+commit 3d7e66d83490dd555b7bdcbee3438e1e3cfe988b
+Author: RogerMuntane <rogermuntane123@gmail.com>
+Date:   Fri Oct 17 16:53:31 2025 +0200
+
+    Primera prova
+
+commit a467cf8d1774a5626b48e75e70ce70cef279ac8f
+Author: RogerMuntane <rogermuntane123@gmail.com>
+Date:   Fri Oct 17 16:37:08 2025 +0200
+
+    Initial commit
